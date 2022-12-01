@@ -1,0 +1,17 @@
+.configuration-container {
+  background-color: #475569;
+  background-size: cover;
+  min-zoom: 50px;
+  width: 100%;
+  padding-left: 25px;
+}
+.main-heading {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.label-text {
+  color: #ffffff;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
